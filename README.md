@@ -155,8 +155,8 @@ No known bugs at this time.
 
 ## Authors
 Esther Muthui - github username: estarmalkia
+
 Ricky Kimumu - github username: Rickyflame
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
